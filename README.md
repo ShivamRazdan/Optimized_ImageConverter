@@ -1,4 +1,4 @@
-# HPCC_GNN_P02
+# Optimized_ImageConverterModule
 Optimization of ECL Tensors   
   
 
